@@ -10,10 +10,10 @@
 <title>E-Commerce</title>
 
 <!-- Bootstrap Core CSS -->
-<link href="./css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="./css/shop-homepage.css" rel="stylesheet">
+<link href="css/shop-homepage.css" rel="stylesheet">
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -33,7 +33,7 @@
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><img src="./images/logo.png"
+				<a class="navbar-brand" href="#"><img src="images/logo.png"
 					width="50px" height="25px" class="img-responsive" /></a>
 			</div>
 
@@ -81,13 +81,13 @@
 							</ol>
 							<div class="carousel-inner">
 								<div class="item active">
-									<img class="slide-image" src="./images/1.jpg" alt="">
+									<img class="slide-image" src="images/1.jpg" alt="">
 								</div>
 								<div class="item">
-									<img class="slide-image" src="./images/2.jpg" alt="">
+									<img class="slide-image" src="images/2.jpg" alt="">
 								</div>
 								<div class="item">
-									<img class="slide-image" src="./images/2.jpg" alt="">
+									<img class="slide-image" src="images/2.jpg" alt="">
 								</div>
 							</div>
 							<a class="left carousel-control" href="#" data-slide="prev">
@@ -105,7 +105,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product1.jpg" alt="">
+								<img src="images/product1.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 1.</p>
 								</div>
@@ -116,7 +116,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product2.jpg" alt="">
+								<img src="images/product2.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 2</p>
 								</div>
@@ -127,7 +127,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product3.jpg" alt="">
+								<img src="images/product3.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 3</p>
 								</div>
@@ -138,7 +138,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product4.jpg" alt="">
+								<img src="images/product4.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 4</p>
 								</div>
@@ -149,7 +149,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product5.jpg" alt="">
+								<img src="images/product5.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 5</p>
 								</div>
@@ -160,7 +160,7 @@
 					<div class="col-sm-4 col-lg-4 col-md-4">
 						<a href="#">
 							<div class="thumbnail">
-								<img src="./images/product6.jpg" alt="">
+								<img src="images/product6.jpg" alt="">
 								<div class="caption">
 									<p>Something about product 6</p>
 								</div>
